@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "typescript": "^5.1.6"
+  },
+  "name": "clase_4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
